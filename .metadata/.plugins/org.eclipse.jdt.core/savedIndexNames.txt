@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+/run/media/litoos11/Webs/bwl/apiBwl/.metadata/.plugins/org.eclipse.jdt.core
+126111058.index
